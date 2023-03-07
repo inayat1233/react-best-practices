@@ -1,6 +1,4 @@
-**1. React Folder Structure Best Practices**
-
-  
+# 1. React Folder Structure Best Practices
 
 When it comes to organizing the files and folders of a React project, there are several best practices that can help to maintain a clean and well-structured codebase. Here are some of the most common recommendations:
 
@@ -24,7 +22,7 @@ When it comes to organizing the files and folders of a React project, there are 
 6. Use index files to simplify imports: Use index files to simplify imports and make it easier to navigate the project. For example, instead of importing a component from "../components/Component.js", you can import it from "../components".
 7. Consider scalability: When organizing the project, consider how it will scale as the project grows. Make sure the structure can accommodate new features and functionality without becoming overly complex.
 
-**3 React Code Structure Best Practices**
+# 3 React Code Structure Best Practices
 
 When building a React application, it is important to have a well-structured codebase that is easy to maintain, extend, and scale. Here are some React code structure best practices:
 
